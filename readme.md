@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Dhingra</h1>
-<h3 align="center">I'm a Student, Developer</h3>
+<h3 align="center">I'm a Student, Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay9045&label=Profile%20views&color=0e75b6&style=flat" alt="akshay9045" /> </p>
 
 - 🔭 I’m currently working on **building my skills!**
 
-- 🌱 I’m currently Working on **passionate my programming skills**
+- 🌱 Also Working on **passionate my programming skills**
 
 - 👯 Looking for help with an opportunity in **SDE**
 
